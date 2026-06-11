@@ -1,1 +1,1 @@
-freshness_window_hours: 24
+freshness_window_hours: 12
