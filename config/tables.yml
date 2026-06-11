@@ -4,3 +4,6 @@ tables:
   - name: customers
     csv: data/customers.csv
     target_table: CUSTOMER_SRC
+  - name: sales
+    csv: data/sales.csv
+    target_table: SALES_SRC
