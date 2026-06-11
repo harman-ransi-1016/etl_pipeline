@@ -1,0 +1,6 @@
+# CSV -> Snowflake target table mapping.
+# Add an entry here to onboard a new source (this is what you'll edit in the git exercise).
+tables:
+  - name: customers
+    csv: data/customers.csv
+    target_table: CUSTOMER_SRC

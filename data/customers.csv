@@ -1,0 +1,6 @@
+CUSTOMER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,COUNTRY
+1001,John,Doe,john.doe@example.com,+1-555-123-4567,USA
+1002,Maria,Gonzalez,maria.g@example.es,+34-600-123-456,Spain
+1003,Kenji,Tanaka,kenji.t@example.jp,+81-90-1234-5678,Japan
+1004,Amina,Ali,amina.ali@example.ke,+254-712-345-678,USA
+1005,Liam,OConnor,liam.oconnor@example.ie,+353-87-123-4567,Ireland
