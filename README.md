@@ -60,3 +60,4 @@ python main.py --dry-run       # extract+transform, print rows, skip the load
 ## Notes
 - Secrets live only in `.env` (gitignored). Never commit credentials.
 - `--dry-run` lets you test extract/transform without touching Snowflake.
+ # tiny change to README
